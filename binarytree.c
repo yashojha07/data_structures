@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define GLOBALSPACE 5
+#define GLOBALSPACE 6
 
 struct node
 {
