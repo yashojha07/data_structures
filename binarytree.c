@@ -265,8 +265,7 @@ int depth(struct node *root)
     }
 }
 
-/* There is a difference between maximum depth and height of BT 
-Max height include no. of edges while depth consists of maximum no. of nodes*/
+/* There is a difference between maximum depth and height of BT */
 
 // height of a  binary tree
 int height(struct node * node) {
