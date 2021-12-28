@@ -1,1 +1,2 @@
-# Collection of code of basic operations on different data structures topics
+# Data structure 
+Collection of codes for basic operations on different data structures topics
